@@ -1,0 +1,17 @@
+.color-light-dark {
+  color: #232933 !important;
+}
+.span-divider {
+  width: 1px;
+  height: 20px;
+  background-color: #eee;
+}
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0rem;
+  color: #fff;
+  background-color: transparent !important;
+  border: none !important;
+  /* border: 1px solid rgba(0, 0, 0, 0.125); */
+}
